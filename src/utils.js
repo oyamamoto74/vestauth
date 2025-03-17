@@ -5,3 +5,4 @@ export function run(): void {
 export const VERSION = "0.1.0";
 // drop an unused branch
 // clarify the control flow
+// guard against empty input
