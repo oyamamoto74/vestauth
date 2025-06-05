@@ -1,6 +1,6 @@
 {
   "name": "vestauth",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "auth for agents\u2013from the creator of `dotenv` and `dotenvx`",
   "main": "src/index.js",
   "scripts": {
